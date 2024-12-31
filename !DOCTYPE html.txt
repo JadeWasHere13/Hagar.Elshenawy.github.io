@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hagar El Shenawy's Professional Portfolio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS for styling -->
+</head>
+
+<body>
+
+    <header>
+        <h1>Hagar El Shenawy's Professional Portfolio</h1>
+    </header>
+
+    <section id="welcome">
+        <h2>Welcome</h2>
+        <p>Hello, and welcome to my professional portfolio! I am Hagar El Shenawy, a results-driven and detail-oriented professional with extensive experience in investigation, quality assurance, and customer service management. This portfolio highlights my expertise, achievements, and contributions to driving performance improvements and operational efficiency in fast-paced environments.</p>
+    </section>
+
+    <hr>
+
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>I specialize in:</p>
+        <ul>
+            <li>Driving client satisfaction and operational excellence.</li>
+            <li>Managing cross-functional teams and mentoring professionals.</li>
+            <li>Using data-driven insights to enhance processes and make informed decisions.</li>
+        </ul>
+        <p>My approach combines critical thinking, problem-solving, and adaptability to exceed expectations and achieve measurable results.</p>
+    </section>
+
+    <hr>
+
+    <section id="professional-experience">
+        <h2>Professional Experience</h2>
+
+        <h3>Senior Investigation Specialist</h3>
+        <p><strong>Amazon</strong> | Jun 2023 – Present</p>
+        <ul>
+            <li>Conducted investigations to protect customer trust and brand reputation.</li>
+            <li>Performed risk assessments and implemented recommendations to mitigate financial risks.</li>
+            <li>Led cross-functional teams to resolve investigations while ensuring compliance.</li>
+            <li>Identified root causes of quality issues and introduced corrective actions.</li>
+            <li>Integrated machine learning and AI tools to enhance investigative techniques.</li>
+            <li>Conducted audits and analyses to improve productivity and quality.</li>
+        </ul>
+
+        <h3>CS Team Manager</h3>
+        <p><strong>Amazon</strong> | Jul 2022 – Jun 2023</p>
+        <ul>
+            <li>Managed a team of 25–30 associates, ensuring alignment with performance metrics.</li>
+            <li>Conducted audits, identified training needs, and implemented process improvements.</li>
+            <li>Used metrics to identify trends, address gaps, and enhance team performance.</li>
+            <li>Collaborated with leadership to align team strategies with organizational goals.</li>
+        </ul>
+
+        <h3>Quality Analyst</h3>
+        <p><strong>Amazon</strong> | Nov 2021 – Jul 2022</p>
+        <ul>
+            <li>Conducted quality audits to ensure compliance with policies and procedures.</li>
+            <li>Identified defects and implemented improvements to enhance efficiency.</li>
+            <li>Analyzed data to provide actionable insights for operational excellence.</li>
+        </ul>
+
+        <h3>Customer Service Associate</h3>
+        <p><strong>Amazon</strong> | Jul 2021 – Nov 2021</p>
+        <ul>
+            <li>Delivered exceptional customer service via chat, email, and phone.</li>
+            <li>Achieved recognition as a top performer and contributed to launching new services in the MENA region.</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section id="key-achievements">
+        <h2>Key Achievements</h2>
+        <ul>
+            <li>Improved investigative processes by integrating machine learning tools.</li>
+            <li>Led multiple cross-functional teams to implement strategic process improvements.</li>
+            <li>Recognized as a top performer in customer service operations, earning promotions to leadership roles.</li>
+            <li>Designed and facilitated training programs to upskill teams and ensure alignment with organizational goals.</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section id="skills">
+        <h2>Skills</h2>
+
+        <h3>Core Competencies:</h3>
+        <ul>
+            <li>Data Analysis and Reporting</li>
+            <li>Leadership and Team Management</li>
+            <li>Quality Assurance and Compliance</li>
+            <li>Client Relationship Management</li>
+        </ul>
+
+        <h3>Technical Skills:</h3>
+        <ul>
+            <li>HubSpot CRM</li>
+            <li>Microsoft Office Suite</li>
+            <li>Machine Learning Tools (for investigative purposes)</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>Bachelor of Law (English Section)</strong></p>
+        <p>Ain Shams University, Cairo, Egypt</p>
+        <p>Graduated: Jul 2021</p>
+    </section>
+
+    <hr>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>I would love to connect with you and discuss how I can contribute to your organization’s success. Please feel free to reach out!</p>
+        <p><strong>Email:</strong> <a href="mailto:hagar.elshenawy13@gmail.com">hagar.elshenawy13@gmail.com</a></p>
+        <p><strong>Phone:</strong> +201116632442</p>
+    </section>
+
+    <footer>
+        <p>Thank you for visiting my portfolio!</p>
+    </footer>
+
+</body>
+
+</html>
